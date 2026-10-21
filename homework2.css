@@ -1,3 +1,5 @@
 .highlight {
     color: rgb(170, 108, 57);
+    font-weight: bold; 
+    font-family: Georgia, serif;
 }
