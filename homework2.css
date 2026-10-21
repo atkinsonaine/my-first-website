@@ -17,11 +17,7 @@ body {
     transition: background-color 0.2s ease, color 0.2s ease;
 }
 
-.homework-nav a:hover,
-.homework-nav a:focus-visible {
-    background-color: #6d3b78;
-    color: #ffffff;
-}
+
 
 .highlight {
     color: rgb(170, 108, 57);
@@ -94,10 +90,7 @@ body {
     text-decoration: none;
 }
 
-.css-file-link:hover {
-    background-color: #6d3b78;
-    color: #ffffff;
-}
+
 
 @media (max-width: 500px) {
     .spaced-box {
