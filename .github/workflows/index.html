@@ -34,3 +34,12 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+  fetch('README.md')
+    .then(res => res.text())
+    .then(markdown => {
+      document.getElementById('output').innerHTML = marked.parse(markdown);
+    });
+</script>
+<div id="output"></div>
