@@ -1,4 +1,4 @@
-![Wireframe Description](path/to/your/Philly.jpg)
-![Wireframe Description](path/to/your/aine.jpg)
-![Wireframe Description](path/to/your/dean.jpg)
-![Wireframe Description](path/to/your/kilo.jpg,jpg)
+![Wireframe Description](Philly.jpg)
+![Wireframe Description](aine.jpg)
+![Wireframe Description](dean.jpg)
+![Wireframe Description](kilo.jpg,jpg)
