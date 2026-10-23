@@ -1,7 +1,7 @@
-![App Wireframe](aine.jpg)
-![App Wireframe](Philly.jpg)
-![App Wireframe](dean.jpg)
-![App Wireframe](kilo.jpg.jpg)
+![ Wireframe](aine.jpg)
+![ Wireframe](Philly.jpg)
+![ Wireframe](dean.jpg)
+![ Wireframe](kilo.jpg.jpg)
 
 
 
